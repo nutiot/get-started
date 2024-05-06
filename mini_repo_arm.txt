@@ -1,0 +1,3 @@
+base/security/huks
+test/xts/tools
+third_party/optimized-routines

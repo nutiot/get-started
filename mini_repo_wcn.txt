@@ -1,0 +1,9 @@
+base/update/sys_installer_lite
+foundation/communication/bluetooth
+foundation/communication/wifi_lite
+test/xts/acts
+test/xts/device_attest_lite
+test/xts/tools
+test/testfwk/xdevice
+third_party/unity
+third_party/wpa_supplicant
