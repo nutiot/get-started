@@ -1,9 +1,12 @@
 base/update/sys_installer_lite
+device/board/hihope
+device/soc/winnermicro
 foundation/communication/bluetooth
 foundation/communication/wifi_lite
+test/testfwk/xdevice
 test/xts/acts
 test/xts/device_attest_lite
 test/xts/tools
-test/testfwk/xdevice
 third_party/unity
 third_party/wpa_supplicant
+vendor/hihope
