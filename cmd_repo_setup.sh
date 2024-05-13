@@ -1,6 +1,10 @@
 #!/bin/bash
 
-sudo apt install git curl python3 python3-pip
+sudo apt install curl git git-lfs python3 python3-pip
+
+if [ -e /usr/bin/python3 && ! -e /usr/bin/python ]; then
+    sudo ln -s /usr/bin/python3 /usr/bin/python
+fi
 
 # 创建目录
 mkdir ~/bin
